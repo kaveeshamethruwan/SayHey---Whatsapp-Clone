@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989180227980",
+    "project_id": "sayhey-b643f",
+    "storage_bucket": "sayhey-b643f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989180227980:android:fd257633914cd55565a6a9",
+        "android_client_info": {
+          "package_name": "com.example.sayhey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989180227980-i1936e1u5768f13uuqipb5in66qmu336.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_d20AP48ICcZdXI9AFZ2dlrf4sYNyWVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989180227980-i1936e1u5768f13uuqipb5in66qmu336.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

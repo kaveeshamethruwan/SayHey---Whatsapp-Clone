@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SayHey</string>
+    <string name="main_name">Say Hey</string>
+    <string name="mobile_auth">Mobile Auth</string>
+    <string name="verify_your_mobile_number">Verify Your Mobile Number</string>
+    <string name="sayhey_will_send_an_message">SayHey will send an message to verify your phone number</string>
+    <string name="type_your_mobile_number">Type Your Mobile Number</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="enter_otp_code">Enter OTP code to verify your phone number</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="please_set_your_name">Please set your name and an optional profile image</string>
+    <string name="your_name">Your Name</string>
+    <string name="setup_profile">Setup Profile</string>
+    <string name="chats">Chats</string>
+    <string name="status">Status</string>
+    <string name="calls">Calls</string>
+    <string name="search">Search</string>
+    <string name="groups">Groups</string>
+    <string name="settings">Settings</string>
+    <string name="invite">Invite</string>
+    <string name="your_message_here">Message</string>
+    <string name="attachment_icon">Attachment Icon</string>
+    <string name="camera_icon">Camera Icon</string>
+    <string name="send_icon">Send Icon</string>
+    <string name="reaction_image">Reaction Image</string>
+    <string name="send_image">Send Image</string>
+    <string name="receive_image">Receive Image</string>
+    <string name="back_button">Back Button</string>
+</resources>
